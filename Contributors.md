@@ -32,6 +32,7 @@
 - [Afton Lawver](https://github.com/AftonLawver)
 - [Amisu Rahman](https://github.com/amisu-ctr)
 - [Guruprasad](https://github.com/guruprasadhegde-gp)
+- [Siddhant Daryanani](https://github.com/sid12701)
 - [Pritse](https://github.com/Pritse)
 - [Victor Lopez] (https://github.com/viclop1597)
 - [Andrew Maged](https://github.com/AndrewMaged814)
